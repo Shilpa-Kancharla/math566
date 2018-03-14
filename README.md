@@ -1,2 +1,2 @@
 # math566
-Numerical analysis methods
+Numerical analysis methods in MATLAB
